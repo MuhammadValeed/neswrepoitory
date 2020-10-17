@@ -7,3 +7,5 @@
 **bold**
 
 *italic*
+
+~~mistake~~
